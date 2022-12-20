@@ -1,0 +1,29 @@
+nav {
+	margin: 0 auto;
+	wadht:  400px;
+	height:  50 px;
+	background-color: red;
+}
+
+
+aside {
+	widht: 20%;
+	height: 300px;
+	background-color: lime;
+	float: left;
+}
+
+main {
+	widht: 80%;
+	height: 300px;
+	background-color:  gray;
+	float:right;
+
+}
+
+
+footer {
+	widht: 100%;
+	height:150%;
+
+}
